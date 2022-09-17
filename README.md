@@ -8,7 +8,7 @@
 **Key learning :** 
 
 - Learned more about flexbox properties like: Gap, align-self.
-- Adjusting bakcground images according to screen size.
+- Adjusting bakcground images at different breakpoints.
 
 
 **Technology Used :**
@@ -26,7 +26,6 @@
 
 ## **Screenshots :**
 
-&nbsp;
 
 ### **Web Version :-**
 
